@@ -356,3 +356,17 @@ a .fm_resume {
 .icon_heigh {
     height: 30px;
 }
+.fa_widget_body_text {
+    font-size: 12px;
+    display: flex;
+    line-height: 20px;
+    color:  #FFFFFF;
+    margin-top: -12px;
+    
+}
+.fa_widget_body_years {
+    font-size: 11px;
+    color: #0079c7;
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
