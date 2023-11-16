@@ -219,3 +219,31 @@ article .news_resume {
     font-size: 14px;
     margin-bottom: 30px;
 }
+
+.widget_body {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.deparments {
+    margin-bottom: 30px;
+    background-color:#01a6dd;
+    height: 150px;
+    width: 150px;
+    
+}
+
+.info {
+    margin-bottom: 20px;
+    display: flex;
+    border-bottom: 3px solid #fff3;
+}
+
+.contacts {
+    color: #5c5c5c;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #fff3;
+}
